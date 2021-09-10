@@ -193,6 +193,7 @@ hr { border-top: 1px solid white; }
 .tm-service-text { max-width: 365px; }
 .tm-service-img { margin-right: 25px; }
 .tm-service-img-r { margin-left: 25px; }
+.tm-service-img, .tm-service-img-r { width: 250px; border-radius: 3px;}
 
 /* Contact */
 .form-control,
